@@ -6,7 +6,11 @@ title: "amr-data-dictionary"
 
 This web page will provide metadata information about the data files used for the course R for AMR.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Data files
+
+- gapminder_data.csv
+- ght_wgt.csv
+- dig_health_hub_amr.csv
 
 ```{r}
 1 + 1
